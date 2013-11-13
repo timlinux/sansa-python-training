@@ -16,4 +16,4 @@ class Telescope():
     def fire(self):
         """Fire a beam at a ufo."""
         print 'Kablaaaam!'
-        self.aliens_killed = 10
+        self.aliens_killed = 100

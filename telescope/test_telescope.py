@@ -25,7 +25,7 @@ class TestTelescope(unittest.TestCase):
     def test_laser_beam_ufo(self):
         """Test firing a beam works."""
         self.telescope.fire()
-        self.assertEqual(10, self.telescope.aliens_killed)
+        self.assertEqual(100, self.telescope.aliens_killed)
 
 if __name__ == '__main__':
     unittest.main()
