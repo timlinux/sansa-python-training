@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d443f1a2-7333-451d-ac6c-b4b9aee6f61d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list id="d443f1a2-7333-451d-ac6c-b4b9aee6f61d" name="Default" comment="" />
+    <list default="true" id="df8329fe-59f7-4f31-b00d-86c78eb7bf4e" name="sansa-python-training-1 Telescope alien zapper needs higher power" comment="1 Telescope alien zapper needs higher power">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sansa-python-training.iws" />
@@ -16,8 +15,8 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/sansa-python-training$Unittests_in_test_telescope.coverage" NAME="Unittests in test_telescope Coverage Results" MODIFIED="1384349969054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sansa-python-training$Nosetests_in__Users_timlinux_dev_sansa_python_training_telescope.coverage" NAME="Nosetests in /Users/timlinux/dev/sansa-python-training/telescope Coverage Results" MODIFIED="1384345841261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/telescope" />
-    <SUITE FILE_PATH="coverage/sansa-python-training$Unittests_in_test_telescope.coverage" NAME="Unittests in test_telescope Coverage Results" MODIFIED="1384346610499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sansa-python-training$game.coverage" NAME="game Coverage Results" MODIFIED="1384337783959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sansa-python-training$goodbye_function.coverage" NAME="goodbye_function Coverage Results" MODIFIED="1384332642202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sansa-python-training$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1384330461889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -42,10 +41,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="test_telescope.py" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="test_telescope.py" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/telescope/test_telescope.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="5" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.073131956" vertical-offset="49" max-vertical-offset="703">
+                <state line="27" column="27" selection-start="717" selection-end="717" vertical-scroll-proportion="0.5632184" vertical-offset="268" max-vertical-offset="703">
                   <folding />
                 </state>
               </provider>
@@ -55,10 +54,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="telescope.py" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="telescope.py" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/telescope/telescope.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="7" column="25" selection-start="161" selection-end="161" vertical-scroll-proportion="0.21144675" vertical-offset="0" max-vertical-offset="629">
+                <state line="18" column="31" selection-start="431" selection-end="431" vertical-scroll-proportion="0.7862069" vertical-offset="0" max-vertical-offset="475">
                   <folding />
                 </state>
               </provider>
@@ -75,6 +74,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -489,28 +493,59 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
+    <task id="Default" summary="Default task">
+      <branch name="master" repository="$PROJECT_DIR$" />
       <changelist id="d443f1a2-7333-451d-ac6c-b4b9aee6f61d" name="Default" comment="" />
       <created>1384330074988</created>
-      <updated>1384330074988</updated>
+      <updated>1384349892096</updated>
     </task>
-    <servers />
+    <task active="true" id="sansa-python-training-1" summary="Telescope alien zapper needs higher power">
+      <branch name="master" repository="$PROJECT_DIR$" original="true" />
+      <branch name="sansa-python-training-1" repository="$PROJECT_DIR$" />
+      <changelist id="df8329fe-59f7-4f31-b00d-86c78eb7bf4e" name="sansa-python-training-1 Telescope alien zapper needs higher power" comment="1 Telescope alien zapper needs higher power" />
+      <created>1384342627000</created>
+      <option name="issue" value="true" />
+      <option name="type" value="BUG" />
+      <updated>1384349893805</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Fix #1 Telescope alien zapper needs higher power">
+      <created>1384350024055</created>
+      <updated>1384350024055</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers>
+      <GitHub shared="false" url="github.com">
+        <commitMessageFormat>{number} {summary}</commitMessageFormat>
+        <password />
+        <token>df93dfcedfc9df92df9bdfc8df9fdf9fdf9cdf9fdfcfdf9edf9adf99dfc9dfccdf9ddfccdfcedf9adfcfdf93df9ddf92df9fdfccdf93dfc9dfcedf92df99dfc9df92dfc9dfcbdf9edf9edf92df9fdf9a</token>
+        <option name="loginAnonymously" value="false" />
+        <option name="repoAuthor" value="timlinux" />
+        <option name="repoName" value="sansa-python-training" />
+        <option name="shouldFormatCommitMessage" value="true" />
+        <option name="useHttpAuthentication" value="false" />
+        <option name="useProxy" value="false" />
+        <option name="user" value="timlinux" />
+        <username />
+      </GitHub>
+    </servers>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1024" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17075665" sideWeight="0.7345679" order="-1" side_tool="false" content_ui="tabs" x="100" y="100" width="824" height="568" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32886904" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50595236" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22597137" sideWeight="0.7328358" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50595236" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26618704" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2654321" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -535,9 +570,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22597137" sideWeight="0.7328358" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26716417" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26618704" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -547,6 +582,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Fix #1 Telescope alien zapper needs higher power" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix #1 Telescope alien zapper needs higher power" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -629,14 +666,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/telescope/telescope.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="25" selection-start="161" selection-end="161" vertical-scroll-proportion="0.21144675" vertical-offset="0" max-vertical-offset="629">
+        <state line="18" column="31" selection-start="431" selection-end="431" vertical-scroll-proportion="0.7862069" vertical-offset="0" max-vertical-offset="475">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/telescope/test_telescope.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.073131956" vertical-offset="49" max-vertical-offset="703">
+        <state line="27" column="27" selection-start="717" selection-end="717" vertical-scroll-proportion="0.5632184" vertical-offset="268" max-vertical-offset="703">
           <folding />
         </state>
       </provider>
