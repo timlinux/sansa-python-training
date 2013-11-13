@@ -27,5 +27,11 @@ class TestTelescope(unittest.TestCase):
         self.telescope.fire()
         self.assertEqual(10, self.telescope.aliens_killed)
 
+    def test_friendly_message(self):
+        """Test if friendly message is received."""
+        self.telescope.friendly_message()
+        self.assertEqual('Greetings alien, take me to your leader!',
+                         self.telescope.friendly_message)
+
 if __name__ == '__main__':
     unittest.main()
