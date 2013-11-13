@@ -3,7 +3,7 @@
 
 
 class Telescope():
-    """Representation of a telescope."""
+    """Representatio of a telescope."""
     def __init__(self):
         """Constructor."""
         self.track_result = False
